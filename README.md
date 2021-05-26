@@ -4,7 +4,7 @@ In this project, we have deployed a web application interface for the calculatio
 i.e. using gas equation and the formula for pumping speed for a diaphragm pump. Details about the theory can be found in the report.
 
 ## Website Link
-https://throughtput-and-pumping-speed-calculator.netlify.app/
+http://bit.ly/throughtput-and-pumping-speed-calculator
 
 <br>
 
