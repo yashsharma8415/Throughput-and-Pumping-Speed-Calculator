@@ -6,6 +6,17 @@ i.e. using gas equation and the formula for pumping speed for a diaphragm pump. 
 ## Website Link
 http://bit.ly/throughtput-and-pumping-speed-calculator
 
+## Tech stack used
+
+<img src="https://img.icons8.com/ios-filled/50/000000/html-5--v2.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/>
+
+## How to use?
+
+- Open website in your favourite browser.
+- Enter the required values.
+- Click on Calulate button to get the result. 
+
 <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50b1648f-2ed9-4671-b912-0cf743aab7c5/deploy-status)](https://app.netlify.com/sites/throughtput-and-pumping-speed-calculator/deploys)
