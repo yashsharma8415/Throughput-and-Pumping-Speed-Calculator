@@ -17,6 +17,13 @@ http://bit.ly/throughtput-and-pumping-speed-calculator
 - Enter the required values.
 - Click on Calulate button to get the result. 
 
+## How to Contribute?
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## Issues
+For major changes, you are welcome to open an issue to discuss what you would like to change. Enhancements will be appreciated.
+
 <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50b1648f-2ed9-4671-b912-0cf743aab7c5/deploy-status)](https://app.netlify.com/sites/throughtput-and-pumping-speed-calculator/deploys)
